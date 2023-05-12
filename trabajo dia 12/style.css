@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+.box{
+  border: 10px dotted red;
+  width: 200px;
+  height: 100px;
+}
+
+.box1{
+  background-color: steelblue;
+  /*margin: 50px;*/
+
+
+  /*margin-top: 50px;*/
+  /*margin-bottom: 100px;*/
+  /*margin-left: 50px;*/
+  /*margin-right: 50px;*/
+
+  margin: 0px auto;
+
+  /*margin: 51px 10px 3px 28px;*/
+
+  opacity: 0,2;
+
+  /*margin: auto;*/
+
+  /*border:10px double red;*/
+}
+
+.box2{
+    box-sizing: border-box;
+    background-color: tomato;
+    border: 10px solid black;
+    padding-left: 15px;
+    padding-top: 40px;
+    /*padding-right: 20px;
+    padding-bottom: 50px; */
+
+    /* overflow: hidden; */
+}
+
